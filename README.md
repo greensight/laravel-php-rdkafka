@@ -1,5 +1,7 @@
 # Bridge package between Laravel and php-rdkafka
 
+Deprecated, use https://github.com/ensi-platform/laravel-php-rdkafka instead
+
 This packages allows you to describe Kafka producers and consumers in config/kafka.php and then reuse them everywhere.
 
 ## Installation
